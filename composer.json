@@ -1,0 +1,16 @@
+{
+    "name": "karol-dabrowski/strategy-pattern",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "karol",
+            "email": "blog@karoldabrowski.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
